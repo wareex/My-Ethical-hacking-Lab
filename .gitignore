@@ -1,0 +1,116 @@
+############################################
+# Operating System Files
+############################################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+############################################
+# Editor / IDE Files
+############################################
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+*.log
+
+############################################
+# Python / Tool Caches (from Kali tools)
+############################################
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.cache/
+
+############################################
+# Packet Captures & Raw Evidence
+############################################
+*.pcap
+*.pcapng
+*.cap
+
+############################################
+# Exploit & Tool Output Artifacts
+############################################
+*.loot
+*.session
+*.rc
+msf4/
+metasploit.log
+*.creds
+
+############################################
+# Wordlists & Brute-force Inputs
+############################################
+*.lst
+*.wordlist
+wordlists/
+passwords.txt
+rockyou.txt
+
+############################################
+# VM & Virtualization Files
+############################################
+*.vmdk
+*.vmx
+*.vmxf
+*.nvram
+*.vmsd
+*.vmsn
+*.vmem
+*.ova
+*.ovf
+
+############################################
+# Database Dumps & Service Data
+############################################
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+
+############################################
+# Backup & Archive Files
+############################################
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+
+############################################
+# Credentials & Secrets (Safety)
+############################################
+.env
+*.env
+*.key
+*.pem
+*.crt
+*.pfx
+*.secret
+
+############################################
+# Screenshots – Allow curated images only
+############################################
+# Ignore bulk screenshot folders by default
+screenshots_raw/
+captures_raw/
+
+############################################
+# Allow documentation assets explicitly
+############################################
+!**/*.md
+!**/*.png
+!**/*.jpg
+!**/*.jpeg
+!**/*.svg
+!LICENSE
+!README.md
