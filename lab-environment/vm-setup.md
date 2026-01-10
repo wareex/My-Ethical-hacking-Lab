@@ -59,8 +59,8 @@ All machines were assigned IPs within the same private subnet.
 
 ---
 - #### Kali OS IP Address
-Command: ifconfig
-IPV4 Address Output: 192.168.106.134
+Command: ifconfig   
+{IPV4 Address Output: 192.168.106.134}
 
 ![Kali OS IP Address](images/kali_ifconfig_IP.png)
 
