@@ -58,23 +58,30 @@ All machines were assigned IPs within the same private subnet.
 | Metasploitable 2 | 192.168.106.135 |
 
 ---
-#### Kali OS IP Address
+- #### Kali OS IP Address
 Command: ifconfig
 IPV4 Address Output: 192.168.106.134
 
 ![Kali OS IP Address](images/kali_ifconfig_IP.png)
 
-#### Ubuntu Server IP Address
+- #### Ubuntu Server IP Address
 Command: ifconfig
 IPV4 Address output: 192.168.106.131
 
 ![Ubuntu Server IP Address](images/Ubuntu_ifconfig_IP.png)
 
-#### Windows 8.1 IP Address
+- #### Windows 8.1 IP Address
 Command: ipconfig
 IPV4 Address output: 192.168.106.133 (Default Gateway: 192.168.106.2) 
 
-![Windows 8.1 IP Address](images/Wins_IPconfig_IP.png)
+![Windows 8.1 IP Address](images/Wins_IPconfg_IP.png)
+
+- #### Metasploitable 2 IP address 
+Command: ifconfig
+IPV4 Address output: 192.168.106.133 (Default Gateway: 192.168.106.2) 
+
+![Metasploitable 2 IP address ](images/Matsploitable%202_%20Ifconfig%20IP%20Add.png)
+
 ---
 
 ## Connectivity Validation
