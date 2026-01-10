@@ -16,7 +16,7 @@
 - Network Adapter: NAT
 - Tools Used: Nmap, Hydra, tcpdump, hping3, Metasploit
 
-![Kali Linux Network Adapter set as NAT](images/Kali Network Setting.png)
+![Kali Linux Network Adapter set as NAT](images/Kali-Network-Setting.png)
 
 
 ### 2. Ubuntu Server (Target)
@@ -27,14 +27,14 @@
   - FTP (vsftpd)
   - SNMP (snmpd)
 
-![Ubuntu Server Network Adapter set as NAT](images/Ubuntu_Network_Setting.png)
+![Ubuntu Server Network Adapter set as NAT](images/Ubuntu-Network-Setting.png)
 
 ### 3. Windows 8.1 (Client)
 - Purpose: Functional validation of services
 - Network Adapter: NAT
 - Used to confirm service availability before and after attacks
 
-![Windows 8.1 Client Network Adapter set as NAT](images/Wins8_Network_Setting.png)
+![Windows 8.1 Client Network Adapter set as NAT](images/Wins8-Network-Setting.png)
 
 ### 4. Metasploitable 2
 - Purpose: Intentionally vulnerable training VM
