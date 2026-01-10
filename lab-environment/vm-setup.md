@@ -4,6 +4,8 @@
 - VMware Workstation Pro 17
 - Host Operating System: Windows 10/11
 
+![VMWARE Workstation Pro 17 installed interface](images/VMWARE.png)
+
 ---
 
 ## Virtual Machines Deployed
@@ -14,6 +16,9 @@
 - Network Adapter: NAT
 - Tools Used: Nmap, Hydra, tcpdump, hping3, Metasploit
 
+![Kali Linux Network Adapter set as NAT](images/Kali_Network_Setting.png)
+
+
 ### 2. Ubuntu Server (Target)
 - Version: Ubuntu Server 22.04 LTS
 - Purpose: Hosting vulnerable services
@@ -22,10 +27,14 @@
   - FTP (vsftpd)
   - SNMP (snmpd)
 
+![Ubuntu Server Network Adapter set as NAT](images/Ubuntu_Network_Setting.png)
+
 ### 3. Windows 8.1 (Client)
 - Purpose: Functional validation of services
 - Network Adapter: NAT
 - Used to confirm service availability before and after attacks
+
+![Windows 8.1 Client Network Adapter set as NAT](images/Wins8_Network_Setting.png)
 
 ### 4. Metasploitable 2
 - Purpose: Intentionally vulnerable training VM
@@ -50,7 +59,3 @@ All machines were assigned IPs within the same private subnet.
 ICMP ping tests were conducted between all machines to confirm network reachability
 before service deployment and attack execution.
 
-Screenshots:
-- VMware overview
-- Network adapter configuration
-- IP address confirmation
