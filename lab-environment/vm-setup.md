@@ -103,7 +103,7 @@ before service deployment and attack execution.
       Command: ping 192.168.106.134
     ![Response from Kali Machine](images/Ubuntu_Ping%20reponse%20from%20Kali.png)
     
-  - Connectivity to Windows machine:
+  - Connectivity to Windows machine:  
       Command: ping 192.168.106.2
     ![Response from Windows Machine](images/Ubuntu_Ping%20reponse%20from%20Wins8.png)
     
