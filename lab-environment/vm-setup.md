@@ -57,6 +57,13 @@ All machines were assigned IPs within the same private subnet.
 | Windows 8.1 | 192.168.106.133 |
 | Metasploitable 2 | 192.168.106.135 |
 
+
+#### Kali OS IP Address
+Command: ifconfig
+IPV4 Address Output: 192.168.106.134
+
+![Kali OS IP Address](images/kali_ifconfig_IP.png)
+
 ---
 
 ## Connectivity Validation
