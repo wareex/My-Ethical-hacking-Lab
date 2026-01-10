@@ -16,7 +16,7 @@
 - Network Adapter: NAT
 - Tools Used: Nmap, Hydra, tcpdump, hping3, Metasploit
 
-![Kali Linux Network Adapter set as NAT](images/Kali_Network_Setting.png)
+![Kali Linux Network Adapter set as NAT](images/Kali Network Setting.png)
 
 
 ### 2. Ubuntu Server (Target)
