@@ -89,23 +89,23 @@ ICMP ping tests were conducted between all machines to confirm network reachabil
 before service deployment and attack execution.
 
 - #### Ping test on Kali Machine, to check its connectivity with other vms
-  - Connectivity to Ubuntu machine:
+  - Connectivity to Ubuntu machine:   
       Command: ping 192.168.106.131
     ![Response from Ubuntu Server](images/Kali_ping%20response%20from%20Ubuntu%20Server.png)
     
-  - Connectivity to Windows machine:
+  - Connectivity to Windows machine:  
       Command: ping 192.168.106.2
    ![Response from Windows Machine](images/Kali_ping%20response%20from%20Wins8.png)
    
 ---
 - #### Ping test on Ubuntu Server, to check its connectivity with other vms
-  - Connectivity to Kali machine:
+  - Connectivity to Kali machine:  
       Command: ping 192.168.106.134
-    ![Response from Kali Machine](images/Ubuntu_Ping%20response%20from%20Kali.png)
+    ![Response from Kali Machine](images/Ubuntu_Ping%20reponse%20from%20Kali.png)
     
   - Connectivity to Windows machine:
       Command: ping 192.168.106.2
-    ![Response from Windows Machine](images/Ubuntu_Ping%20response%20from%20Wins8.png)
+    ![Response from Windows Machine](images/Ubuntu_Ping%20reponse%20from%20Wins8.png)
     
 ---
 - #### Ping test on Windows Machine, to check its connectivity with other vms
@@ -113,15 +113,15 @@ before service deployment and attack execution.
       Command: ping 192.168.106.134
     ![Response from Kali Machine](images/Wins_Ping%20response%20from%20Kalivm.png)
     
-  - Connectivity to Ubuntu machine:  
+  - Connectivity to Ubuntu machine:    
       Command: ping 192.168.106.131
-    ![Response from Ubuntu Server](images/Wins_Ping%20response%20from%20Ubuntu%20Server.png)
+    ![Response from Ubuntu Server](images/Wins_Ping%20response%20from%20Ubuntu%20server.png)
     
 ---
 - #### Ping test between Kali attacking Machine and Metasploitable 2 Vulnerable Machine
     - Connectivity test was performed from Kali Linux.  
           Command: ping 192.168.206.135
-   ![Successful ping response from Metasploitable 2](images/Kali_Ping%20succes%20from%20Metasploitable%202.png)
+   ![Successful ping response from Metasploitable 2](images/Kali%20Ping%20succes%20from%20Metasploitable%202.png)
 
     - Connectivity test was performed from Metasploitable 2.  
           Command: ping 192.168.206.134
