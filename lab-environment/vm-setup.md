@@ -43,7 +43,7 @@ Windows 8.1 Client Network Adapter set as NAT
 - Network Adapter: NAT / Host-Only
 - Contains known vulnerable services
 
-![Metasploitable 2 Network Adapter set to NAT and Host only(images/Metasploitable%202_Network%20Adpter%20Configuration%20(NAT%20%26%20Host%20only).png)
+![Metasploitable 2 Network Adapter set to NAT and Host only](images/Metasploitable%202_Network%20Adpter%20Configuration%20(NAT%20%26%20Host%20only).png)
 Metasploitable 2 Network Adapter set to NAT and Host only
 ---
 
