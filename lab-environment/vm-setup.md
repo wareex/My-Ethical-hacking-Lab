@@ -5,7 +5,7 @@
 - Host Operating System: Windows 10/11
 
 ![###VMWARE Workstation Pro 17 installed interface](images/VMWARE.png)
-###VMWARE Workstation Pro 17 installed interface
+            --VMWARE Workstation Pro 17 installed interface
 ---
 
 ## Virtual Machines Deployed
