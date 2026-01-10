@@ -65,20 +65,20 @@ Command: ifconfig
 ![Kali OS IP Address](images/kali_ifconfig_IP.png)
 
 - #### Ubuntu Server IP Address
-Command: ifconfig
-IPV4 Address output: 192.168.106.131
+Command: ifconfig   
+{IPV4 Address output: 192.168.106.131}
 
 ![Ubuntu Server IP Address](images/Ubuntu_ifconfig_IP.png)
 
 - #### Windows 8.1 IP Address
-Command: ipconfig
-IPV4 Address output: 192.168.106.133 (Default Gateway: 192.168.106.2) 
+Command: ipconfig   
+{IPV4 Address output: 192.168.106.133 (Default Gateway: 192.168.106.2)} 
 
 ![Windows 8.1 IP Address](images/Wins_IPconfg_IP.png)
 
 - #### Metasploitable 2 IP address 
-Command: ifconfig
-IPV4 Address output: 192.168.106.133 (Default Gateway: 192.168.106.2) 
+Command: ifconfig  
+{IPV4 Address output: 192.168.106.133 (Default Gateway: 192.168.106.2)} 
 
 ![Metasploitable 2 IP address ](images/Matsploitable%202_%20Ifconfig%20IP%20Add.png)
 
